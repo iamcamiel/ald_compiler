@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Custom
+/.vs
+/win/.vs
+/win/ald_compiler/x64
+/win/x64
